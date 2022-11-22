@@ -1,0 +1,22 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "node app project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hode",
+    "js"
+  ],
+  "author": "Vasiliy Igonin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "yargs": "^17.6.2"
+  }
+}
